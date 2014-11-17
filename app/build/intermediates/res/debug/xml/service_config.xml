@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+	android:accessibilityEventTypes="typeNotificationStateChanged"
+	android:accessibilityFeedbackType="feedbackGeneric"
+	android:description="@string/service_desc"
+	android:settingsActivity="com.example.driverwellness.MainActivity" /><!-- From: file:/C:/Users/Kincaid/awork/pebble-sdk-examples-master/weather-demo/DriverWellness/app/src/main/res/xml/service_config.xml -->

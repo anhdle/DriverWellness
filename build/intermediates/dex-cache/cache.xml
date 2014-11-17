@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Kincaid\awork\pebble-sdk-examples-master\weather-demo\DriverWellness\app\build\intermediates\pre-dexed\debug\volley-3cb2c76115dacaa38065192945224d9185cef6c5.jar"
+        jar="C:\Users\Kincaid\awork\pebble-sdk-examples-master\weather-demo\DriverWellness\app\libs\volley.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c"/>
+    <item
+        dex="C:\Users\Kincaid\awork\pebble-sdk-examples-master\weather-demo\DriverWellness\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-692047bbd26e6a9dab4fefc752c46446f3a5f659.jar"
+        jar="C:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Users\Kincaid\awork\pebble-sdk-examples-master\weather-demo\DriverWellness\app\build\intermediates\pre-dexed\debug\classes-3dd890961e8cbb425e4401b1cc286624dc473f78.jar"
+        jar="C:\Users\Kincaid\awork\pebble-sdk-examples-master\weather-demo\DriverWellness\app\build\intermediates\exploded-aar\com.getpebble\pebblekit\2.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="fcd447344b983fe2b2aef2f7c7c960451234cca9"/>
+    <item
+        dex="C:\Users\Kincaid\awork\pebble-sdk-examples-master\weather-demo\DriverWellness\app\build\intermediates\pre-dexed\debug\classes-d89d9da6edd8feeed4b6673e1199fb1ffc32a737.jar"
+        jar="C:\Users\Kincaid\awork\pebble-sdk-examples-master\weather-demo\DriverWellness\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\Kincaid\awork\pebble-sdk-examples-master\weather-demo\DriverWellness\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-cfd77bf563ae944981a744122a7d97931854e9d8.jar"
+        jar="C:\Users\Kincaid\awork\pebble-sdk-examples-master\weather-demo\DriverWellness\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\Users\Kincaid\awork\pebble-sdk-examples-master\weather-demo\DriverWellness\app\build\intermediates\pre-dexed\debug\guava-14.0.1-5ff283b9b1b688d97bdc8d240ac89b1f1bb7f6f3.jar"
+        jar="C:\Users\Kincaid\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\14.0.1\69e12f4c6aeac392555f1ea86fab82b5e5e31ad4\guava-14.0.1.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="69e12f4c6aeac392555f1ea86fab82b5e5e31ad4"/>
+
+</pre-dex-items>
